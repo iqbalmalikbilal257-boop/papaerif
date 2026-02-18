@@ -1,0 +1,78 @@
+[
+  {
+    "class": "9",
+    "subjects": [
+      {
+        "name": {
+          "en": "Poultry Farming",
+          "ur": "مرغبانی"
+        },
+        "chapters": [
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 1:۔مرغبانی کا تعارف و اہمیت"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 2:۔مرغی کا جسم اور مختلف اجزاء"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 3:۔مرغیوں کی نسلیں"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 4:۔ہیچری کے انتظامات"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 5:۔انوائر منٹ کنٹرول برائلر فارمنگ(پارٹ ۔11)"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 5:۔مرغی خانے کی عمارت(پارٹ ۔1)"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 6:۔مرغی خانے کا سامان"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          }
+        ]
+      }
+    ]
+  }
+]

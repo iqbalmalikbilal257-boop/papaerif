@@ -1,0 +1,202 @@
+[
+  {
+    "class": "10",
+    "subjects": [
+      {
+        "name": {
+          "en": "Education",
+          "ur": "تعلیم"
+        },
+        "chapters": [
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 6:پاکستان میں تعلیم"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 7:نصاب"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 8:مدرسہ کی سرگرمیوں کی تنظیم"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 9: راہنمائی اور مشاورات"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          }
+        ]
+      },
+      {
+        "name": {
+          "en": "Food and Nutrition",
+          "ur": "غذا اور غذائیت"
+        },
+        "chapters": [
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 06:۔ غذاؤں کی تیاری اور پکانے کا طریقے"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 07:۔ خاندان اور معاشرے کی غذائیت"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 08:۔ انتظام طعام"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 09:۔ میز لگانا اور کھانا پیش کرنا"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 10:۔ غذاؤں کو محفوظ رکھنا"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          }
+        ]
+      },
+      {
+        "name": {
+          "en": "General Mathematics",
+          "ur": "عمومی ریاضی"
+        },
+        "chapters": [
+          {
+            "chapter": {
+              "en": "01. Algebraic Formulas and Applications",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "02. Factorization",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "03. Algebraic Manipulation",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "04. Linear Equations and Inequalities",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "05. Quadratic Equations",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "06. Matrices and Determinants",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "07. Fundamentals of Geometry",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "08. Practical Geometry",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "09. Areas and Volumes",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "10. Introduction to Coordinate Geometry",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          }
+        ]
+      }
+    ]
+  }
+]

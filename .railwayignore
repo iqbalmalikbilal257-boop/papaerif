@@ -1,0 +1,17 @@
+node_modules/
+.git/
+.env
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.md
+!README.md
+.qodo/
+uploads/payments/*.png
+uploads/payments/*.jpg
+uploads/payments/*.jpeg
+demo-usage.json
+paperify.db
+payments.json

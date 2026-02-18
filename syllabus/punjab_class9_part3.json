@@ -1,0 +1,220 @@
+[
+  {
+    "class": "9",
+    "subjects": [
+      {
+        "name": {
+          "en": "Food and Nutrition",
+          "ur": "غذا اور غذائیت"
+        },
+        "chapters": [
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 1:۔غذا اور غذائیت"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 2:۔توانائی اور غذائی اجزا"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 3:۔متوازن غذا"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 4:۔غذاؤں کی اجزائے ترکیبی"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 5:۔اشیائے خوردنی کی خریداری اور سٹور کرنا"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          }
+        ]
+      },
+      {
+        "name": {
+          "en": "General Mathematics",
+          "ur": "عمومی ریاضی"
+        },
+        "chapters": [
+          {
+            "chapter": {
+              "en": "01. Percentage, Ratio and Proportion",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "02. Zakat, Ushr and Inheritance",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "03. Business Mathematics",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "04. Financial Mathematics",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "05. Consumer Mathematics",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "06. Exponents and Logarithms",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "07. Arithmetic and Geometric Sequences",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "08. Sets and Functions",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "09. Linear Graphs",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "10. Basic Statistics",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          }
+        ]
+      },
+      {
+        "name": {
+          "en": "General Science",
+          "ur": "عمومی سائنس"
+        },
+        "chapters": [
+          {
+            "chapter": {
+              "en": "1. Introduction and Role of Science",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "2. Our life and chemistry",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "3. Biochemistry and Biotechnology",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "4. Human Health",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "5. Diseases-causes and Prevention",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "6. Environment and Natural resources",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          }
+        ]
+      }
+    ]
+  }
+]

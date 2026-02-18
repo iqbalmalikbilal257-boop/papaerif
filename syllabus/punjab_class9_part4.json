@@ -1,0 +1,229 @@
+[
+  {
+    "class": "9",
+    "subjects": [
+      {
+        "name": {
+          "en": "Home Economics",
+          "ur": "ہوم اکنامکس"
+        },
+        "chapters": [
+          {
+            "chapter": {
+              "en": "",
+              "ur": "یونٹ 1. ہوم اکنامکس کا تعارف"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "یونٹ 2 غذا اور غذائیت کا تعارف"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "یونٹ 3. غذا اور خوراک کو سمجھنا"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "یونٹ 4. کھانوں کی تیاری"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "یونٹ 5. بچوں کی نگہداشت اور نشوونما کا تعارف"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "یونٹ 6. نشوونمائی خصوصیات"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "یونٹ 7. بچوں کے رویوں کے مسائل"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "یونٹ 8. انسانی نشوونما میں خاندان اور معاشرے کا کردار"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          }
+        ]
+      },
+      {
+        "name": {
+          "en": "Pakistan Studies",
+          "ur": "پاکستان سٹڈیز"
+        },
+        "chapters": [
+          {
+            "chapter": {
+              "en": "1. The Ideological Basis of Pakistan",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "2. Establishment of Tehreek-e-Pakistan and Pakistan",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "3. Land and Environment",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "4. Empowering Women",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          }
+        ]
+      },
+      {
+        "name": {
+          "en": "Physical Education",
+          "ur": "جسمانی تعلیم"
+        },
+        "chapters": [
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 01: تعلیم جسمانی کی تعریف"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 02: حرکات"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 03: تعلیمی جمناسٹک"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 04: قامت"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 05: منظم کھیلیں(الف) والی بال"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 06: منظم کھیلیں(ب) بیڈمنٹن"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 07: اتھلیٹکس کے قوانین اور بنیادی مہارتیں"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 08: علم الصحت اور اس کی وسعت"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 09: شخصی حفظانِ صحت"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 10: جسم کے حرکاتی کل پرزے"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          }
+        ]
+      }
+    ]
+  }
+]

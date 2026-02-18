@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Career Smart Roadmap | Paperify</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    body { font-family: 'Manrope', sans-serif; background: linear-gradient(135deg, #f8fafc 0%, #ecfeff 100%); }
+    .glass { background: rgba(255,255,255,.8); backdrop-filter: blur(8px); }
+  </style>
+</head>
+<body class="min-h-screen">
+  <div class="max-w-5xl mx-auto px-4 py-8">
+    <div class="glass rounded-2xl shadow-lg p-6 border border-white/70">
+      <div class="flex items-center justify-between gap-4 flex-wrap">
+        <div>
+          <h1 class="text-3xl font-extrabold text-slate-800">Career Smart System</h1>
+          <p class="text-slate-600 mt-1">Goal-based roadmap with timeline, free learning sources, tasks and earning plan.</p>
+        </div>
+        <a href="/ans" class="px-4 py-2 rounded-lg bg-slate-800 text-white text-sm font-semibold">Change Goal</a>
+      </div>
+      <div class="mt-5">
+        <label class="text-sm font-semibold text-slate-700">Your Goal</label>
+        <div class="mt-1 flex gap-2">
+          <input id="goalInput" class="w-full border rounded-lg px-3 py-2" placeholder="e.g., I want to become web developer" />
+          <button onclick="buildRoadmap()" class="px-4 py-2 rounded-lg bg-emerald-600 text-white font-semibold">Get Start</button>
+        </div>
+      </div>
+    </div>
+
+    <div id="roadmapRoot" class="mt-6 space-y-4"></div>
+  </div>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const initialGoal = params.get('goal') || '';
+    document.getElementById('goalInput').value = initialGoal;
+
+    const templates = {
+      web_developer: {
+        roleName: 'Web Developer',
+        whatIs: 'A Web Developer builds websites and web apps using frontend + backend tools. Work includes UI, APIs, databases, testing and deployment.',
+        future: 'Web development has strong future because every business needs websites, dashboards, e-commerce and web portals. AI tools increase speed, but skilled developers are still needed for architecture and real problem solving.',
+        timeline: [
+          'Month 1: HTML, CSS, responsive design, Git basics.',
+          'Month 2: JavaScript fundamentals, DOM, API calls.',
+          'Month 3-4: React + component design + state management.',
+          'Month 5: Node.js + Express + MongoDB/PostgreSQL.',
+          'Month 6: Build 3 production-level projects + deploy + portfolio.'
+        ],
+        freeSources: [
+          'freeCodeCamp (full web development path)',
+          'MDN Web Docs (core concepts and references)',
+          'The Odin Project (project-based full stack learning)',
+          'CS50 Web lectures (Harvard free content)',
+          'YouTube channels: Traversy Media, Web Dev Simplified'
+        ],
+        tasks: [
+          'Task 1: Build a responsive landing page.',
+          'Task 2: Build TODO app with local storage.',
+          'Task 3: Build blog API with auth.',
+          'Task 4: Build full-stack e-commerce mini app.',
+          'Task 5: Publish portfolio with project case studies.'
+        ],
+        hosting: ['Railway', 'Render', 'Vercel', 'Netlify', 'Cloudflare Pages'],
+        freelancing: ['Upwork', 'Fiverr', 'Freelancer.com', 'LinkedIn', 'PeoplePerHour']
+      }
+    };
+
+    function detectTemplate(goal) {
+      const g = goal.toLowerCase();
+      if (g.includes('web')) return templates.web_developer;
+      if (g.includes('developer')) return templates.web_developer;
+      return {
+        roleName: goal,
+        whatIs: `${goal} is a professional path where you solve real problems, build practical skills, and create measurable results in that field.`,
+        future: `The future of ${goal} is strong if you build practical project skills, communication, and consistency.`,
+        timeline: [
+          'Phase 1 (0-1 month): Learn foundations and tools.',
+          'Phase 2 (1-3 months): Practice guided projects.',
+          'Phase 3 (3-6 months): Build portfolio-quality work.',
+          'Phase 4 (6+ months): Start internship/freelance/client work.'
+        ],
+        freeSources: ['YouTube structured playlists', 'Official docs', 'freeCodeCamp', 'Coursera audit mode', 'edX free track'],
+        tasks: ['Do one daily focused study block.', 'Make weekly mini project.', 'Publish work publicly.', 'Collect mentor feedback.', 'Iterate and improve.'],
+        hosting: ['Railway', 'Render', 'Vercel', 'Netlify', 'GitHub Pages'],
+        freelancing: ['Upwork', 'Fiverr', 'Freelancer.com', 'LinkedIn']
+      };
+    }
+
+    function section(title, bodyHtml) {
+      return `
+        <div class="glass rounded-xl p-5 border border-white/70">
+          <h2 class="text-xl font-extrabold text-slate-800">${title}</h2>
+          <div class="mt-2 text-slate-700 text-sm leading-6">${bodyHtml}</div>
+        </div>
+      `;
+    }
+
+    function list(items) {
+      return `<ul class="list-disc pl-5">${items.map(i => `<li>${i}</li>`).join('')}</ul>`;
+    }
+
+    function buildRoadmap() {
+      const goal = document.getElementById('goalInput').value.trim();
+      if (!goal) {
+        alert('Please enter your goal.');
+        return;
+      }
+      const t = detectTemplate(goal);
+      const html = [
+        section('1) What Is Your Career?', `<strong>${t.roleName}</strong>: ${t.whatIs}`),
+        section('2) Future Scope', t.future),
+        section('3) Steps + Study Time Plan', list(t.timeline)),
+        section('4) Where To Study (Free)', list(t.freeSources)),
+        section('5) Practical Tasks', list(t.tasks)),
+        section('6) Free Hosting Platforms', list(t.hosting)),
+        section('7) Freelancing + Account Platforms', list(t.freelancing))
+      ].join('');
+      document.getElementById('roadmapRoot').innerHTML = html;
+      history.replaceState({}, '', `/roadmap?goal=${encodeURIComponent(goal)}`);
+    }
+
+    if (initialGoal) buildRoadmap();
+  </script>
+</body>
+</html>

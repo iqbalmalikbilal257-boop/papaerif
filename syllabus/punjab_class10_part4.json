@@ -1,0 +1,211 @@
+[
+  {
+    "class": "10",
+    "subjects": [
+      {
+        "name": {
+          "en": "General Science",
+          "ur": "عمومی سائنس"
+        },
+        "chapters": [
+          {
+            "chapter": {
+              "en": "07: Energy",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "08: Current Electricity",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "09: Science and Technology",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "10: Human Health",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "11: Nuclear and Space Programme of Pakistan",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          }
+        ]
+      },
+      {
+        "name": {
+          "en": "Home Economics",
+          "ur": "ہوم اکنامکس"
+        },
+        "chapters": [
+          {
+            "chapter": {
+              "en": "",
+              "ur": "یونٹ 09.پارچہ بافی اور لباس کا تعارف"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "یونٹ 10.لباس بنانا"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "یونٹ 11.مختلف ادوار میں لباس کی اہمیت"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "یونٹ 12.انتظام کا تعارف"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "یونٹ 13.ماحول اور انتظام"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "یونٹ 14.آرٹ اور ڈائزین"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "یونٹ 15.روز مرہ ذندگی میں آرٹ"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          }
+        ]
+      },
+      {
+        "name": {
+          "en": "Pakistan Studies",
+          "ur": "پاکستان سٹڈیز"
+        },
+        "chapters": [
+          {
+            "chapter": {
+              "en": "1. The Ideological Basis of Pakistan",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "2. Establishment of Tehreek-e-Pakistan and Pakistan",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "3. History of Pakistan (1971 to present)",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "4. Pakistan and world affairs",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "5. Land and Environment",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "6. Population, society and culture of Pakistan",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "7. Economic Development of Pakistan",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "8. Empowering Women",
+              "ur": ""
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          }
+        ]
+      }
+    ]
+  }
+]

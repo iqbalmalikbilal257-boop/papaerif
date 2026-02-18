@@ -1,0 +1,158 @@
+[
+  {
+    "class": "10",
+    "subjects": [
+      {
+        "name": {
+          "en": "Physical Education",
+          "ur": "جسمانی تعلیم"
+        },
+        "chapters": [
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 1: جسمانی تعلیم"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 2: تفریحی اور چھوٹے رقبے سے کھیل"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 3: ٹریننگ سسٹم"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 4: کھیلیں (الف) ہاکی (ب) میل ٹینس"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 5: اتھلیٹکس"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 6: تفریحی مشاغل"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 7: معاشرے کی صحت"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 8: غذائیت"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          }
+        ]
+      },
+      {
+        "name": {
+          "en": "Poultry Farming",
+          "ur": "مرغبانی"
+        },
+        "chapters": [
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 07:۔ مرغیوں کی خوراک"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 08:۔ برائلر پرندوں کی پرورش"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 09:۔ لیئر مرغیوں کی پرورش"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 10:۔ مرغیوں کے امراض"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 11:۔ مرغیوں میں بیماریوں کی روک تھام"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 12:۔ پولٹری فارم کا حساب کتاب"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          },
+          {
+            "chapter": {
+              "en": "",
+              "ur": "باب نمبر 13:۔ پولٹری فارم کا حساب کتاب"
+            },
+            "mcqs": [],
+            "short_questions": [],
+            "long_questions": []
+          }
+        ]
+      }
+    ]
+  }
+]
