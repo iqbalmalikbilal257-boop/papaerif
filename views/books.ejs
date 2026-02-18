@@ -352,7 +352,7 @@
             currentSubject = subject;
             document.getElementById('modalTitle').innerText = subject;
             document.getElementById('chapterModal').classList.add('show');
-            document.getElementById('chapterList').innerHTML = '<p class="text-center font-bold">Loading...</p>';
+            document.getElementById('chapterList').innerHTML = '<p class="text-center font-bold text-[#19c880]">Loading...</p>';
 
             try {
                 const res = await fetch(`/api/chapters/${board}/${className}/${encodeURIComponent(subject)}`);
@@ -443,7 +443,7 @@
 
             document.getElementById('topicTitle').innerText = `Topics: ${chapterTitle}`;
             document.getElementById('topicModal').classList.add('show');
-            document.getElementById('topicList').innerHTML = '<p class="text-center font-bold">Loading...</p>';
+            document.getElementById('topicList').innerHTML = '<p class="text-center font-bold text-[#19c880]">Loading...</p>';
 
             try {
                 const res = await fetch(`/api/topics/${board}/${className}/${encodeURIComponent(currentSubject)}/${encodeURIComponent(chapterTitle)}`);
